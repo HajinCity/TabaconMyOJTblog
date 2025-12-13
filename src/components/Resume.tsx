@@ -1,10 +1,11 @@
 import React from "react";
 import { Download, Briefcase, GraduationCap } from "lucide-react";
+import { getImagePath } from "../utils/imagePath";
 
 export function Resume() {
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/Carlos David Tabacon.pdf';
+    link.href = getImagePath("/Carlos David Tabacon.pdf");
     link.download = 'Carlos David Tabacon.pdf';
     document.body.appendChild(link);
     link.click();

@@ -1,5 +1,6 @@
 import React from "react";
 import { Calendar, Code, Computer, Star, Trophy, Users } from "lucide-react";
+import { getImagePath } from "../utils/imagePath";
 
 export function Timeline() {
   const timelineData = [
@@ -7,7 +8,7 @@ export function Timeline() {
       year: "1st Year",
       period: "2022-2023",
       title: "Foundation & Discovery",
-      image: "/redeemer-building.jpg",
+      image: getImagePath("/redeemer-building.jpg"),
       description:
         "Started my journey in Information Technology. Learned programming fundamentals with Java Programming Language. Started my first semester in college.",
       highlights: [
@@ -20,7 +21,7 @@ export function Timeline() {
       year: "2nd Year",
       period: "2023-2024",
       title: "Building Skills",
-      image: "/asdf.jpg",
+      image: getImagePath("/asdf.jpg"),
       description:
         "Deepened my knowledge in data structures and algorithms. Built my first full-stack .NET application using C# Programming Language. Started my second year in college.",
       highlights: [
@@ -32,7 +33,7 @@ export function Timeline() {
       year: "3rd Year",
       period: "2024-2025",
       title: "Capstone Project Proposal",
-      image: "/3rdyear.jpg",
+      image: getImagePath("/3rdyear.jpg"),
       description:
         "Started my third year in college. Proposed Online Case Filing System for Violence Against Women and Their Children (VAWC) as our capstone project.",
       highlights: [
@@ -44,7 +45,7 @@ export function Timeline() {
       year: "4th Year",
       period: "2025-2026",
       title: "Capstone Deployment & Internship",
-      image: "/4thyear.jpg",
+      image: getImagePath("/4thyear.jpg"),
       description: "Completing the final year of BSIT, focusing on capstone deployment, industry internship, and real-world application of technical skills.",
       highlights: [
         { icon: Users, text: "Secured first professional developer role during internship" },
