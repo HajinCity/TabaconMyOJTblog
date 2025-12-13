@@ -1,5 +1,6 @@
 import React from "react";
 import { Calendar, Clock, ArrowRight } from "lucide-react";
+import { getImagePath } from "../utils/imagePath";
 
 interface BlogProps {
   onPostClick?: (postId: number) => void;
@@ -9,7 +10,7 @@ export function Blog({ onPostClick }: BlogProps) {
   const blogPosts = [
     {
       id: 1,
-      image: "/116.jpg",
+      image: getImagePath("/116.jpg"),
       category: "Internship",
       title: "Internship Scouting 2025",
       excerpt:
@@ -19,7 +20,7 @@ export function Blog({ onPostClick }: BlogProps) {
     },
     {
       id: 2,
-      image: "/113.jpg",
+      image: getImagePath("/113.jpg"),
       category: "Capstone Project Deployment",
       title: "Capstone Deployment 2025",
       excerpt:
@@ -29,7 +30,7 @@ export function Blog({ onPostClick }: BlogProps) {
     },
     {
       id: 3,
-      image: "/115.jpg",
+      image: getImagePath("/115.jpg"),
       category: "Celebration",
       title: "Sir Philipcris Encarnacion's Birthday",
       excerpt:
@@ -39,7 +40,7 @@ export function Blog({ onPostClick }: BlogProps) {
     },
     {
       id: 4,
-      image: "/4thyear.jpg",
+      image: getImagePath("/4thyear.jpg"),
       category: "Internship",
       title: "Internship 1st Duty",
       excerpt:
@@ -49,7 +50,7 @@ export function Blog({ onPostClick }: BlogProps) {
     },
     {
       id: 5,
-      image: "/117.jpg",
+      image: getImagePath("/117.jpg"),
       category: "Internship",
       title: "1st week of internship",
       excerpt:

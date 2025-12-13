@@ -1,8 +1,10 @@
+import { getImagePath } from "../utils/imagePath";
+
 export const getBlogPostById = (id: number) => {
   const posts = [
     {
       id: 1,
-      image: "/116.jpg",
+      image: getImagePath("/116.jpg"),
       category: "Internship",
       title: "Internship Scouting 2025",
       excerpt:
@@ -11,7 +13,7 @@ export const getBlogPostById = (id: number) => {
       readTime: "10 min read",
       author: {
         name: "Carlos David A. Tabacon",
-        avatar: "/profile.jpg",
+        avatar: getImagePath("/profile.jpg"),
         bio: "Junior Full-stack developer with 2 years of experience.",
       },
       content: {
@@ -61,7 +63,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 2,
-      image: "/113.jpg",
+      image: getImagePath("/113.jpg"),
       category: "Capstone Project Deployment",
       title: "Capstone Deployment 2025",
       excerpt:
@@ -70,7 +72,7 @@ export const getBlogPostById = (id: number) => {
       readTime: "8 min read",
       author: {
         name: "Carlos David A. Tabacon",
-        avatar: "/profile.jpg",
+        avatar: getImagePath("/profile.jpg"),
         bio: "Junior Full-stack developer with 2 years of experience."
       },
       content: {
@@ -120,7 +122,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 3,
-      image: "/115.jpg",
+      image: getImagePath("/115.jpg"),
       category: "Celebration",
       title: "Sir Philipcris Encarnacion's Birthday",
       excerpt:
@@ -129,7 +131,7 @@ export const getBlogPostById = (id: number) => {
       readTime: "6 min read",
       author: {
         name: "Carlos David A. Tabacon",
-        avatar: "/profile.jpg",
+        avatar: getImagePath("/profile.jpg"),
         bio: "Junior Full-stack developer with 2 years of experience."
       },
       content: {
@@ -179,7 +181,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 4,
-      image: "/4thyear.jpg",
+      image: getImagePath("/4thyear.jpg"),
       category: "Internship",
       title: "Internship 1st Duty",
       excerpt:
@@ -188,7 +190,7 @@ export const getBlogPostById = (id: number) => {
       readTime: "10 min read",
       author: {
         name: "Carlos David A. Tabacon",
-        avatar: "/profile.jpg",
+        avatar: getImagePath("/profile.jpg"),
         bio: "Junior Full-stack developer with 2 years of experience.",
       },
       content: {
@@ -246,7 +248,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 5,
-      image: "/117.jpg",
+      image: getImagePath("/117.jpg"),
       category: "Internship",
       title: "1st week of internship",
       excerpt:
@@ -255,7 +257,7 @@ export const getBlogPostById = (id: number) => {
       readTime: "6 min read",
       author: {
         name: "Carlos David A. Tabacon",
-        avatar: "/profile.jpg",
+        avatar: getImagePath("/profile.jpg"),
         bio: "Junior Full-stack developer with 2 years of experience.",
       },
       content: {

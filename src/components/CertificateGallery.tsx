@@ -1,84 +1,85 @@
 import React, { useState } from "react";
 import { X, Award } from "lucide-react";
+import { getImagePath } from "../utils/imagePath";
 
 export function CertificateGallery() {
   const [selectedCert, setSelectedCert] = useState<number | null>(null);
 
   const certificates = [
     {
-      url: "/UC1.jpg",
+      url: getImagePath("/UC1.jpg"),
       title: "The Complete Android & Kotlin App Development A-Z Bootcamp",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC2.jpg",
+      url: getImagePath("/UC2.jpg"),
       title: "C# for Beginners",
       issuer: "Udemy",
       date: "2023",
     },
     {
-      url: "/UC3.jpg",
+      url: getImagePath("/UC3.jpg"),
       title: "Advanced Certificate in Program and Project Management",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC4.jpg",
+      url: getImagePath("/UC4.jpg"),
       title: "Complete SQL & Relational Database Management System",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC5.jpg",
+      url: getImagePath("/UC5.jpg"),
       title: "Professional Diploma in Agile and Project Management",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC6.jpg",
+      url: getImagePath("/UC6.jpg"),
       title: "Figma for User Interface and User Experience UIUX Design",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC7.jpg",
+      url: getImagePath("/UC7.jpg"),
       title: "Web Design Course for Beginners to Intermediate",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC8.jpg",
+      url: getImagePath("/UC8.jpg"),
       title: "HTML, CSS, JavaScript, React - Online Certification Course",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC9.jpg",
+      url: getImagePath("/UC9.jpg"),
       title: "CyberSecurity Bootcamp: The Ultimate Beginner's Course",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC10.jpg",
+      url: getImagePath("/UC10.jpg"),
       title: "HTML and CSS for Beginners From Basic to Advance",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC11.jpg",
+      url: getImagePath("/UC11.jpg"),
       title: "Network Defense Fundamentals: Training for IT Beginners",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC12.jpg",
+      url: getImagePath("/UC12.jpg"),
       title: "Cybersecurity 101: Foundations for Absolute Beginners",
       issuer: "Udemy",
       date: "2025",
     },
     {
-      url: "/UC13.jpg",
+      url: getImagePath("/UC13.jpg"),
       title: "Master Course in PMP - Project Management Professional",
       issuer: "Udemy",
       date: "2025",

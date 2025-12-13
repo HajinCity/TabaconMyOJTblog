@@ -1,5 +1,6 @@
 import React from "react";
 import { ArrowRight, Download } from "lucide-react";
+import { getImagePath } from "../utils/imagePath";
 
 export function Hero() {
   const scrollToSection = (sectionId: string) => {
@@ -27,7 +28,7 @@ export function Hero() {
             <div className="relative">
               <div className="absolute inset-0 bg-[#B5E3FF] rounded-full blur-xl opacity-30"></div>
               <img
-                src="/profile.jpg"
+                src={getImagePath("/profile.jpg")}
                 alt="Profile"
                 className="relative w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover border-4 border-[#B5E3FF]/30"
                 onError={(e) => {
