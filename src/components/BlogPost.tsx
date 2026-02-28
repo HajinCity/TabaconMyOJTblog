@@ -39,7 +39,7 @@ export function BlogPost({ onBack, post, onPostClick }: BlogPostProps) {
 
   // Get previous and next posts
   const previousPost = post.id > 1 ? getBlogPostById(post.id - 1) : null;
-  const nextPost = post.id < 5 ? getBlogPostById(post.id + 1) : null;
+  const nextPost = post.id < 17 ? getBlogPostById(post.id + 1) : null;
 
   const handlePreviousClick = () => {
     if (previousPost && onPostClick) {
