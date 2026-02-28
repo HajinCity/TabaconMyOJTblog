@@ -55,9 +55,130 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "1st week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "December 12, 2025",
+      date: "December 08, 2025",
       readTime: "6 min read",
     },
+    {
+      id: 6,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "2nd week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "December 15, 2025",
+      readTime: "6 min read",
+    },
+    {
+      id: 7,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "3rd week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "January 5, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 8,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "4th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "January 12, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 9,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "5th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "January 19, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 10,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "6th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "January 26, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 11,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "7th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "February 2, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 12,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "8th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "February 9, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 13,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "9th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "February 16, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 14,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "10th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "February 23, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 15,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "11th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "March 2, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 16,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "12th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "March 9, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 17,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "13th week of internship",
+      excerpt:
+        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      date: "March 16, 2026",
+      readTime: "6 min read",
+    }
+  
   ];
 
   return (
