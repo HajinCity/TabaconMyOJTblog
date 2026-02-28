@@ -338,7 +338,174 @@ export function PhotoGallery() {
       title: "3rd Year Capstone Project Proposal Client Meeting",
       category: "3rd Year",
     },
-    
+    {
+      url: getImagePath("/118.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/119.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/120.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/121.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/122.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/123.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/124.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/125.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/126.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/127.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/128.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/129.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/130.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/131.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/132.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/133.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/134.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/135.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/136.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/137.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/138.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/139.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/140.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+   
+    {
+      url: getImagePath("/145.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/146.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/147.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/148.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/149.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/150.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/151.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/152.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/153.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+    {
+      url: getImagePath("/154.jpg"),
+      title: "ActiVerse Incorporation Internship",
+      category: "Internship",
+    },
+   
+
   ];
 
   const openLightbox = (index: number) => {
