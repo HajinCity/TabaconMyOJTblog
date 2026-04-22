@@ -15,7 +15,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "Internship Scouting 2025",
       excerpt:
         "Researched potential Internship Organizations and Company, to prepare for upcoming internship projects and hands-on application development.",
-      date: "Dec 01, 2024",
+      date: "Dec 01, 2025",
       readTime: "10 min read",
     },
     {
@@ -25,7 +25,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "Capstone Deployment 2025",
       excerpt:
         "Deployed an Online Case Filing System for VAWC, ensuring reliability, security, and usability for community stakeholders.",
-      date: "Dec 02, 2022",
+      date: "Dec 02, 2025",
       readTime: "8 min read",
     },
     {
@@ -55,7 +55,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "1st week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "December 08, 2025",
+      date: "December 08 to 12, 2025",
       readTime: "6 min read",
     },
     {
@@ -65,7 +65,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "2nd week of internship",
       excerpt:
          "Completed an E-Challenge, improved sales skills, and collaborated on updating the system’s knowledge base.",
-      date: "December 15, 2025",
+      date: "December 15 to 22 2025",
       readTime: "6 min read",
     },
     {
@@ -74,8 +74,8 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "3rd week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "January 5, 2026",
+        "Strengthened communication skills through sales activities and improved confidence in presenting the system.",
+      date: "January 5 to 9, 2026",
       readTime: "6 min read",
     },
     {
@@ -85,7 +85,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "4th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "January 12, 2026",
+      date: "January 12 to 16, 2026",
       readTime: "6 min read",
     },
     {
@@ -95,7 +95,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "5th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "January 19, 2026",
+      date: "January 19 to 23, 2026",
       readTime: "6 min read",
     },
     {
@@ -105,7 +105,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "6th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "January 26, 2026",
+      date: "January 26 to 30, 2026",
       readTime: "6 min read",
     },
     {
@@ -115,7 +115,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "7th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "February 2, 2026",
+      date: "February 2 to 6, 2026",
       readTime: "6 min read",
     },
     {
@@ -125,7 +125,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "8th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "February 9, 2026",
+      date: "February 9 to 13, 2026",
       readTime: "6 min read",
     },
     {
@@ -135,7 +135,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "9th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "February 16, 2026",
+      date: "February 16 to 20, 2026",
       readTime: "6 min read",
     },
     {
@@ -145,7 +145,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "10th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "February 23, 2026",
+      date: "February 23 to 27, 2026",
       readTime: "6 min read",
     },
     {
@@ -155,7 +155,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "11th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "March 2, 2026",
+      date: "March 2 to 6, 2026",
       readTime: "6 min read",
     },
     {
@@ -165,7 +165,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "12th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "March 9, 2026",
+      date: "March 9 to 13, 2026",
       readTime: "6 min read",
     },
     {
@@ -175,7 +175,7 @@ export function Blog({ onPostClick }: BlogProps) {
       title: "13th week of internship",
       excerpt:
         "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
-      date: "March 16, 2026",
+      date: "March 16 to 20, 2026",
       readTime: "6 min read",
     }
   
