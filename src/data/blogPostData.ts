@@ -1325,7 +1325,7 @@ export const getBlogPostById = (id: number) => {
         ],
       },
     },
-    {
+        {
       id: 17,
       image: getImagePath("/117.jpg"),
       category: "Internship",
@@ -1349,8 +1349,7 @@ export const getBlogPostById = (id: number) => {
               "From my first day of learning and adjustment to becoming more confident in both communication and development, this journey has shaped me into a more capable and prepared individual.",
             ],
           },
-          
-         {
+          {
             id: "key-takeaways",
             heading: "Final Reflections",
             paragraphs: [
@@ -1358,7 +1357,7 @@ export const getBlogPostById = (id: number) => {
               "This experience taught me that growth comes from stepping out of my comfort zone and embracing new opportunities.",
             ],
           },
-         {
+          {
             id: "looking-forward",
             heading: "Moving Forward",
             paragraphs: [
@@ -1366,7 +1365,10 @@ export const getBlogPostById = (id: number) => {
               "This OJT journey will always remain a significant milestone in my life, serving as a strong foundation for my future goals.",
             ],
           },
-          {
+        ],
+      },
+    },
+    {
       id: 18,
       image: getImagePath("/117.jpg"),
       category: "Internship",
@@ -1390,8 +1392,7 @@ export const getBlogPostById = (id: number) => {
               "From my first day of learning and adjustment to becoming more confident in both communication and development, this journey has shaped me into a more capable and prepared individual.",
             ],
           },
-          
-         {
+          {
             id: "key-takeaways",
             heading: "Final Reflections",
             paragraphs: [
@@ -1399,18 +1400,17 @@ export const getBlogPostById = (id: number) => {
               "This experience taught me that growth comes from stepping out of my comfort zone and embracing new opportunities.",
             ],
           },
-         {
+          {
             id: "looking-forward",
             heading: "Moving Forward",
             paragraphs: [
               "As I conclude my internship, I am now more confident in pursuing a career in the field of technology. I will carry the knowledge and experiences I gained as I continue to grow as a future software developer.",
               "This OJT journey will always remain a significant milestone in my life, serving as a strong foundation for my future goals.",
             ],
-          },  
+          },
         ],
       },
     },
   ];
-
   return posts.find((post) => post.id === id) || null;
 };
