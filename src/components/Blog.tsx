@@ -84,7 +84,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "4th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Transitioned into a developer role and began studying MVC, ASP.NET, and API development.",
       date: "January 12 to 16, 2026",
       readTime: "6 min read",
     },
@@ -94,7 +94,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "5th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Continued studying MVC, ASP.NET, and API while strengthening programming fundamentals.",
       date: "January 19 to 23, 2026",
       readTime: "6 min read",
     },
@@ -104,7 +104,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "6th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+       "Experienced a corporate work environment in Makati and gained insights into professional industry practices.",
       date: "January 26 to 30, 2026",
       readTime: "6 min read",
     },
@@ -124,7 +124,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "8th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Explored advanced technologies, generated revenue ideas, and expanded knowledge in SQL, jQuery, and ASP.NET MVC.",
       date: "February 9 to 13, 2026",
       readTime: "6 min read",
     },
@@ -134,7 +134,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "9th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Continued development tasks while improving skills in SQL, jQuery, and ASP.NET MVC.",
       date: "February 16 to 20, 2026",
       readTime: "6 min read",
     },
@@ -144,7 +144,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "10th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Applied development skills more independently while continuing system work and improving problem-solving.",
       date: "February 23 to 27, 2026",
       readTime: "6 min read",
     },
@@ -154,7 +154,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "11th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Continued development work while refining skills and preparing for the final phase of the internship.",
       date: "March 2 to 6, 2026",
       readTime: "6 min read",
     },
@@ -164,7 +164,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "12th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Completed the final week of OJT, applying all learned skills and reflecting on overall growth and experience.",
       date: "March 9 to 13, 2026",
       readTime: "6 min read",
     },
@@ -174,8 +174,18 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "13th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Marked the Final week of my OJT, reflecting on growth, achievements, and future goals.",
       date: "March 16 to 20, 2026",
+      readTime: "6 min read",
+    },
+    {
+      id: 18,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "The Last Day of OJT",
+      excerpt:
+        "Marked the final day of my OJT, reflecting on growth, achievements, and future goals.",
+      date: "March 20, 2026",
       readTime: "6 min read",
     }
   
