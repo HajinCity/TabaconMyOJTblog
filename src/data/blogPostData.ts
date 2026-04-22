@@ -1366,6 +1366,47 @@ export const getBlogPostById = (id: number) => {
               "This OJT journey will always remain a significant milestone in my life, serving as a strong foundation for my future goals.",
             ],
           },
+          {
+      id: 18,
+      image: getImagePath("/117.jpg"),
+      category: "Internship",
+      title: "13th week of internship",
+      excerpt:
+        "Marked the final day of my OJT, reflecting on growth, achievements, and future goals.",
+      date: "March 20, 2026",
+      readTime: "6 min read",
+      author: {
+        name: "Carlos David A. Tabacon",
+        avatar: getImagePath("/profile.jpg"),
+        bio: "Junior Full-stack developer with 2 years of experience.",
+      },
+      content: {
+        sections: [
+          {
+            id: "introduction",
+            heading: "March 20, 2026: My Final Day as an OJT Intern",
+            paragraphs: [
+              "March 20, 2026 marked the final day of my On-the-Job Training, bringing an end to a meaningful and transformative journey. It was a moment filled with mixed emotions—gratitude for the experience and pride in how much I have grown.",
+              "From my first day of learning and adjustment to becoming more confident in both communication and development, this journey has shaped me into a more capable and prepared individual.",
+            ],
+          },
+          
+         {
+            id: "key-takeaways",
+            heading: "Final Reflections",
+            paragraphs: [
+              "Throughout my OJT, I learned valuable lessons in `adaptability`, `continuous learning`, and `teamwork`. Each week brought new challenges that helped me improve both technically and professionally.",
+              "This experience taught me that growth comes from stepping out of my comfort zone and embracing new opportunities.",
+            ],
+          },
+         {
+            id: "looking-forward",
+            heading: "Moving Forward",
+            paragraphs: [
+              "As I conclude my internship, I am now more confident in pursuing a career in the field of technology. I will carry the knowledge and experiences I gained as I continue to grow as a future software developer.",
+              "This OJT journey will always remain a significant milestone in my life, serving as a strong foundation for my future goals.",
+            ],
+          },  
         ],
       },
     },
