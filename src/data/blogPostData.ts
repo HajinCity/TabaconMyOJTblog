@@ -750,7 +750,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "7th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Started contributing to the company system and applied development knowledge to real tasks.",
       date: "February 2 to 6, 2026",
       readTime: "6 min read",
       author: {
@@ -762,10 +762,10 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Seven: Applying Knowledge to Real Development Tasks",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My seventh week marked a significant step in my internship as I began contributing to the actual system of the company. This was an exciting transition from learning concepts to applying them in real-world scenarios.",
+              "Being involved in development tasks allowed me to better understand how systems are built, maintained, and improved in a professional environment.",
             ],
           },
           {
@@ -792,7 +792,7 @@ export const getBlogPostById = (id: number) => {
               "This teamwork helped me complete tasks more efficiently and improved my confidence in contributing to group projects.",
             ],
           },
-          {
+         {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
@@ -817,11 +817,11 @@ export const getBlogPostById = (id: number) => {
             ],
           },
           {
-            id: "looking-forward",
-            heading: "Looking Forward",
+            id: "key-takeaways",
+            heading: "Key Takeaways from Week Seven",
             paragraphs: [
-              "As I move forward, I aim to continue improving my coding skills and contribute more effectively to the system.",
-              "I look forward to handling more complex tasks and becoming more confident in my role as a developer.",
+              "The most important lesson I learned this week is that `real learning happens through application`. Applying concepts to real tasks helped me understand them more deeply.",
+              "I also realized that `confidence grows through experience`, and taking on challenges is an important part of becoming a better developer.",
             ],
           },
         ],
@@ -994,7 +994,7 @@ export const getBlogPostById = (id: number) => {
       },
     },
     {
-      id: 13,
+      id: 14,
       image: getImagePath("/117.jpg"),
       category: "Internship",
       title: "10th week of internship",
@@ -1077,7 +1077,7 @@ export const getBlogPostById = (id: number) => {
       },
     },
     {
-      id: 14,
+      id: 15,
       image: getImagePath("/117.jpg"),
       category: "Internship",
       title: "11th week of internship",
@@ -1160,7 +1160,7 @@ export const getBlogPostById = (id: number) => {
       },
     },
     {
-      id: 15,
+      id: 16,
       image: getImagePath("/117.jpg"),
       category: "Internship",
       title: "12th week of internship",
@@ -1243,7 +1243,7 @@ export const getBlogPostById = (id: number) => {
       },
     },
     {
-      id: 16,
+      id: 17,
       image: getImagePath("/117.jpg"),
       category: "Internship",
       title: "13th week of internship",
@@ -1326,49 +1326,6 @@ export const getBlogPostById = (id: number) => {
       },
     },
         {
-      id: 17,
-      image: getImagePath("/117.jpg"),
-      category: "Internship",
-      title: "13th week of internship",
-      excerpt:
-        "Marked the final day of my OJT, reflecting on growth, achievements, and future goals.",
-      date: "March 20, 2026",
-      readTime: "6 min read",
-      author: {
-        name: "Carlos David A. Tabacon",
-        avatar: getImagePath("/profile.jpg"),
-        bio: "Junior Full-stack developer with 2 years of experience.",
-      },
-      content: {
-        sections: [
-          {
-            id: "introduction",
-            heading: "March 20, 2026: My Final Day as an OJT Intern",
-            paragraphs: [
-              "March 20, 2026 marked the final day of my On-the-Job Training, bringing an end to a meaningful and transformative journey. It was a moment filled with mixed emotions—gratitude for the experience and pride in how much I have grown.",
-              "From my first day of learning and adjustment to becoming more confident in both communication and development, this journey has shaped me into a more capable and prepared individual.",
-            ],
-          },
-          {
-            id: "key-takeaways",
-            heading: "Final Reflections",
-            paragraphs: [
-              "Throughout my OJT, I learned valuable lessons in `adaptability`, `continuous learning`, and `teamwork`. Each week brought new challenges that helped me improve both technically and professionally.",
-              "This experience taught me that growth comes from stepping out of my comfort zone and embracing new opportunities.",
-            ],
-          },
-          {
-            id: "looking-forward",
-            heading: "Moving Forward",
-            paragraphs: [
-              "As I conclude my internship, I am now more confident in pursuing a career in the field of technology. I will carry the knowledge and experiences I gained as I continue to grow as a future software developer.",
-              "This OJT journey will always remain a significant milestone in my life, serving as a strong foundation for my future goals.",
-            ],
-          },
-        ],
-      },
-    },
-    {
       id: 18,
       image: getImagePath("/117.jpg"),
       category: "Internship",
@@ -1411,6 +1368,7 @@ export const getBlogPostById = (id: number) => {
         ],
       },
     },
+            
   ];
   return posts.find((post) => post.id === id) || null;
 };
