@@ -9,7 +9,7 @@ export const getBlogPostById = (id: number) => {
       title: "Internship Scouting 2025",
       excerpt:
         "Researched potential Internship Organizations and Company, to prepare for upcoming internship projects and hands-on application development.",
-      date: "Dec 01, 2024",
+      date: "Dec 01, 2025",
       readTime: "10 min read",
       author: {
         name: "Carlos David A. Tabacon",
@@ -68,7 +68,7 @@ export const getBlogPostById = (id: number) => {
       title: "Capstone Deployment 2025",
       excerpt:
         "Deployed an Online Case Filing System for VAWC, ensuring reliability, security, and usability for community stakeholders.",
-      date: "Dec 02, 2022",
+      date: "Dec 02, 2025",
       readTime: "8 min read",
       author: {
         name: "Carlos David A. Tabacon",
