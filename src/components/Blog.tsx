@@ -64,8 +64,8 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "2nd week of internship",
       excerpt:
-         "Completed an E-Challenge, improved sales skills, and collaborated on updating the system’s knowledge base.",
-      date: "December 15 to 22 2025",
+        "Completed an E-Challenge, improved sales skills, and collaborated on updating the system’s knowledge base.",
+      date: "December 15 to 22, 2025",
       readTime: "6 min read",
     },
     {
@@ -104,7 +104,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "6th week of internship",
       excerpt:
-       "Experienced a corporate work environment in Makati and gained insights into professional industry practices.",
+        "Experienced a corporate work environment in Makati and gained insights into professional industry practices.",
       date: "January 26 to 30, 2026",
       readTime: "6 min read",
     },
@@ -114,7 +114,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "7th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Started contributing to the company system and applied development knowledge to real tasks.",
       date: "February 2 to 6, 2026",
       readTime: "6 min read",
     },
@@ -144,7 +144,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "10th week of internship",
       excerpt:
-        "Applied development skills more independently while continuing system work and improving problem-solving.",
+        "Continued system development while improving efficiency and applying learned technologies.",
       date: "February 23 to 27, 2026",
       readTime: "6 min read",
     },
@@ -154,7 +154,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "11th week of internship",
       excerpt:
-        "Continued development work while refining skills and preparing for the final phase of the internship.",
+        "Applied development skills more independently while continuing system work and improving problem-solving.",
       date: "March 2 to 6, 2026",
       readTime: "6 min read",
     },
@@ -164,7 +164,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "12th week of internship",
       excerpt:
-        "Completed the final week of OJT, applying all learned skills and reflecting on overall growth and experience.",
+        "Continued development work while refining skills and preparing for the final phase of the internship.",
       date: "March 9 to 13, 2026",
       readTime: "6 min read",
     },
@@ -174,7 +174,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "13th week of internship",
       excerpt:
-        "Marked the Final week of my OJT, reflecting on growth, achievements, and future goals.",
+        "Completed the final week of OJT, applying all learned skills and reflecting on overall growth and experience.",
       date: "March 16 to 20, 2026",
       readTime: "6 min read",
     },
@@ -187,8 +187,7 @@ export function Blog({ onPostClick }: BlogProps) {
         "Marked the final day of my OJT, reflecting on growth, achievements, and future goals.",
       date: "March 20, 2026",
       readTime: "6 min read",
-    }
-  
+    },
   ];
 
   return (
@@ -208,14 +207,12 @@ export function Blog({ onPostClick }: BlogProps) {
               onClick={() => onPostClick?.(post.id)}
               className="bg-[#1A1F35] rounded-lg border border-[#C7CCD9]/20 hover:border-[#B5E3FF]/50 transition-all duration-300 overflow-hidden group hover:shadow-lg hover:shadow-[#B5E3FF]/10 hover:-translate-y-1 cursor-pointer"
             >
-              {/* Thumbnail */}
               <div className="relative overflow-hidden h-48">
                 <img
                   src={post.image}
                   alt={post.title}
                   className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
                 />
-                {/* Category Badge */}
                 <div className="absolute top-4 left-4">
                   <span className="px-3 py-1 bg-[#B5E3FF] text-[#0D0D12] text-xs rounded-full">
                     {post.category}
@@ -223,9 +220,7 @@ export function Blog({ onPostClick }: BlogProps) {
                 </div>
               </div>
 
-              {/* Content */}
               <div className="p-6">
-                {/* Meta Info */}
                 <div className="flex items-center gap-4 mb-3 text-[#C7CCD9] text-sm">
                   <div className="flex items-center gap-1">
                     <Calendar size={14} />
@@ -237,15 +232,12 @@ export function Blog({ onPostClick }: BlogProps) {
                   </div>
                 </div>
 
-                {/* Title */}
                 <h3 className="text-[#F3F4F7] text-lg mb-3 group-hover:text-[#B5E3FF] transition-colors">
                   {post.title}
                 </h3>
 
-                {/* Excerpt */}
                 <p className="text-[#C7CCD9] text-sm mb-4">{post.excerpt}</p>
 
-                {/* Read More Link */}
                 <button className="flex items-center gap-2 text-[#B5E3FF] hover:gap-3 transition-all text-sm">
                   Read More
                   <ArrowRight size={16} />
@@ -255,7 +247,6 @@ export function Blog({ onPostClick }: BlogProps) {
           ))}
         </div>
 
-        {/* View All Button */}
         <div className="text-center mt-12">
           <button className="px-8 py-3 bg-transparent border-2 border-[#B5E3FF] text-[#B5E3FF] rounded-lg hover:bg-[#B5E3FF]/10 transition-all duration-300">
             View All Posts
