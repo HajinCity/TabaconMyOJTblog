@@ -418,7 +418,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "3rd week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+         "Strengthened communication skills through sales activities and improved confidence in presenting the system.",
       date: "January 5 to 9, 2026",
       readTime: "6 min read",
       author: {
