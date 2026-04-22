@@ -347,10 +347,10 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Two: Applying Knowledge and Building Confidence",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My second week of internship marked a transition from observation to active participation. I was given opportunities to apply what I had learned during my first week, allowing me to better understand the system and my role within the team.",
+              "Through activities such as the E-Challenge, sales training, and updating the system’s knowledge base, I was able to strengthen both my technical understanding and communication skills. This week pushed me to think critically, be creative, and take on responsibilities that contributed to my overall growth as an intern.",
             ],
           },
           {
