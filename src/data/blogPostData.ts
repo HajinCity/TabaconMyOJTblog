@@ -501,7 +501,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "4th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+         "Transitioned into a developer role and began studying MVC, ASP.NET, and API development.",
       date: "January 12 to 16, 2026",
       readTime: "6 min read",
       author: {
@@ -511,68 +511,68 @@ export const getBlogPostById = (id: number) => {
       },
       content: {
         sections: [
-          {
+         {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Four: Transitioning into Software Development",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My fourth week marked a major turning point in my internship as I transitioned from a Sales Representative to a Software Developer. This shift introduced me to a more technical environment where I began focusing on programming and system development.",
+              "Although the transition was challenging, it was also exciting. I was eager to learn new technologies and understand how systems are built and maintained in a real-world setting.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "During this week, I was introduced to development-related tasks and concepts. I started exploring the basics of `MVC architecture`, `ASP.NET`, and the `.NET Framework`, which are essential in building web-based applications.",
+              "Adjusting to this new role required me to shift my mindset from communication-focused tasks to more technical learning. This experience helped me understand the expectations and responsibilities of a developer.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "This week, I began working with development tools and technologies such as `C#`, `ASP.NET MVC`, and `API integration`. These tools introduced me to how web applications are structured and how different components interact with each other.",
+              "I also used online resources and AI tools like ChatGPT to help me understand complex concepts and guide me through my learning process. These tools supported my transition into development and improved my ability to grasp new topics.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Even as I transitioned into a technical role, collaboration with my team remained important. I asked questions, sought guidance, and shared what I learned with my fellow interns to better understand the new concepts.",
+              "Working together helped me overcome challenges and made the learning process more manageable. This showed me that teamwork is still essential even in technical roles.",
             ],
           },
-          {
+         {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week emphasized the importance of foundational development practices such as `understanding system architecture`, `writing organized code`, and `continuous learning`. Since I was new to these technologies, I focused on building a strong foundation.",
+              "I learned that mastering the basics is important before moving into more advanced concepts. Taking time to understand each part helped me improve my confidence and technical skills.",
             ],
           },
-          {
+         {
             id: "first-contributions",
             heading: "My First Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, my contributions were mainly focused on learning and understanding the development process. I practiced coding exercises and explored how different parts of the system work together.",
+              "Although my contributions were still at a beginner level, this experience helped me prepare for more complex development tasks in the following weeks.",
             ],
           },
-          {
+         {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Four",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `stepping out of your comfort zone leads to growth`. Transitioning into a developer role challenged me, but it also pushed me to learn and improve.",
+              "I also realized that `patience` and `continuous practice` are essential when learning new technologies. Understanding programming concepts takes time, but consistency makes a big difference.",
             ],
           },
-          {
+         {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I move forward, I am excited to deepen my knowledge in programming and start contributing more to development tasks.",
+              "I look forward to gaining more hands-on experience and becoming more confident in building and understanding systems.",
             ],
           },
         ],
@@ -584,7 +584,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "5th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+         "Continued studying MVC, ASP.NET, and API while strengthening programming fundamentals.",
       date: "January 19 to 23, 2026",
       readTime: "6 min read",
       author: {
@@ -596,66 +596,66 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Five: Strengthening Development Foundations",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My fifth week focused on continuing my transition into software development by strengthening my understanding of core programming concepts. I dedicated most of my time to studying and practicing MVC, ASP.NET, and API development.",
+              "Although the learning process was still challenging, I became more familiar with how systems are structured and how different components work together.",
             ],
           },
-          {
+         {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "At this stage, I was already adjusted to the development environment and expectations. My tasks were centered on continuous learning and improving my technical skills.",
+              "I spent time reviewing concepts, setting up practice projects, and exploring how development frameworks are used in real applications.",
             ],
           },
-          {
+         {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "This week, I continued working with development tools such as `C#`, `ASP.NET MVC`, and `API integration`. These tools helped me understand how backend systems are developed and connected.",
+              "I also relied on online resources and AI tools like ChatGPT to guide my learning, simplify complex topics, and help me understand coding practices more clearly.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Even though most of my tasks were focused on self-learning, I still collaborated with my teammates by sharing insights and asking questions when needed.",
+              "This interaction helped me gain different perspectives and made learning more effective, as we supported each other in understanding technical concepts.",
             ],
           },
-          {
+         {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week emphasized the importance of `practice`, `consistency`, and `understanding fundamentals`. I focused on improving my coding logic and understanding how frameworks like MVC operate.",
+              "I realized that building a strong foundation is essential before moving on to more advanced development tasks, and that continuous practice is key to improvement.",
             ],
           },
-          {
+         {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, my contributions were mainly focused on learning and practicing coding exercises related to MVC and ASP.NET.",
+              "Although I was still in the learning phase, these efforts helped me prepare for future tasks where I could contribute more directly to the company’s system.",
             ],
           },
-          {
+         {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Five",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `mastery takes time and consistent effort`. Understanding programming concepts requires patience and continuous practice.",
+              "I also learned that `self-learning` is a crucial skill in the field of technology, as there will always be new tools and concepts to understand.",
             ],
           },
-          {
+         {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I move forward, I aim to continue improving my programming skills and gain more confidence in applying what I have learned.",
+              "I am looking forward to working on real system tasks and contributing more actively to development projects.",
             ],
           },
         ],
@@ -667,7 +667,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "6th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Experienced a corporate work environment in Makati and gained insights into professional industry practices.",
       date: "January 26 to 30, 2026",
       readTime: "6 min read",
       author: {
@@ -677,68 +677,68 @@ export const getBlogPostById = (id: number) => {
       },
       content: {
         sections: [
-          {
+         {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Six: Experiencing the Corporate Environment",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My sixth week of internship was one of the most memorable experiences as we were given the opportunity to travel to Makati and experience a real corporate work environment. This exposure allowed me to see how professionals operate in a fast-paced and structured setting.",
+              "Being in a corporate environment gave me a clearer perspective on industry standards, workplace culture, and the expectations of working in the field of technology.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "During this week, I was introduced to a more professional and structured working environment. Observing how tasks are managed and how teams coordinate gave me a better understanding of real-world workflows.",
+              "This experience helped me adjust to a corporate setting, where professionalism, time management, and responsibility are highly important.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "While in Makati, I observed and learned how teams utilize different tools and systems to manage their work efficiently. Communication tools, task management systems, and development processes were used to ensure smooth operations.",
+              "This exposure helped me understand how tools are applied in a real corporate environment and how they contribute to productivity and collaboration.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Collaboration in a corporate setting is highly structured and organized. I observed how teams communicate clearly, delegate tasks, and work together to meet deadlines.",
+              "This experience showed me the importance of professionalism, respect, and teamwork in achieving organizational goals.",
             ],
           },
-          {
+         {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week reinforced the importance of `professionalism`, `discipline`, and `adaptability` in the workplace. Beyond technical skills, I learned that attitude and work ethic play a big role in success.",
+              "I also realized that understanding how companies operate is just as important as learning how to code, as it prepares me for future career opportunities.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, my main contribution was actively participating, observing, and learning from the corporate environment. I took notes, asked questions, and reflected on how I can apply these insights in my future work.",
+              "Although this week focused more on exposure rather than technical output, it significantly contributed to my overall professional growth.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Six",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `real-world experience is essential in understanding the industry`. Seeing how professionals work gave me a clearer vision of my future career.",
+              "I also learned that `professional behavior`, `communication`, and `adaptability` are key factors in succeeding in a corporate environment.",
             ],
           },
           {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I return from this experience, I am more motivated to improve my skills and prepare myself for a professional career.",
+              "I look forward to applying what I have observed and continuing to grow both technically and professionally in the coming weeks.",
             ],
           },
         ],
@@ -772,56 +772,56 @@ export const getBlogPostById = (id: number) => {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "By this week, I was already familiar with the development environment and workflows. I was given tasks that required me to apply my knowledge in MVC, ASP.NET, and related technologies.",
+              "This phase helped me transition from a learner to a contributor, as I started working on actual parts of the system.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "During this week, I continued using development tools such as `C#`, `ASP.NET MVC`, and `API integration` while working on real system components.",
+              "I also relied on resources and tools like ChatGPT to assist me in understanding code logic, debugging, and improving my implementation of tasks.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Collaboration with my team became more important as I started working on actual system tasks. I communicated with my teammates to clarify requirements and ensure that my work aligned with the system’s goals.",
+              "This teamwork helped me complete tasks more efficiently and improved my confidence in contributing to group projects.",
             ],
           },
           {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week reinforced the importance of `problem-solving`, `attention to detail`, and `understanding system flow`. Working on real tasks required me to carefully analyze problems and find appropriate solutions.",
+              "I learned that applying foundational knowledge correctly is essential in ensuring that the system functions properly and efficiently.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, I contributed by working on parts of the company’s system, applying the concepts I had learned in previous weeks.",
+              "These contributions allowed me to gain hands-on experience and better understand how development tasks are handled in a professional environment.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Seven",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `real learning happens through application`. Applying concepts to real tasks helped me understand them more deeply.",
+              "I also realized that `confidence grows through experience`, and taking on challenges is an important part of becoming a better developer.",
             ],
           },
           {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I move forward, I aim to continue improving my coding skills and contribute more effectively to the system.",
+              "I look forward to handling more complex tasks and becoming more confident in my role as a developer.",
             ],
           },
         ],
@@ -833,7 +833,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "8th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Explored advanced technologies, generated revenue ideas, and expanded knowledge in SQL, jQuery, and ASP.NET MVC.",
       date: "February 9 to 13, 2026",
       readTime: "6 min read",
       author: {
@@ -845,66 +845,66 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Eight: Expanding Knowledge and Contributing Ideas",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My eighth week was a combination of technical growth and creative thinking. I continued enhancing my development skills while also contributing ideas that could help improve the company’s system and generate potential revenue.",
+              "This week challenged me to not only focus on coding but also think critically about how systems can provide value to users and the business.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "By this stage, I was already comfortable with the development environment and workflows. My focus shifted toward expanding my technical knowledge and exploring more advanced concepts.",
+              "I continued studying and practicing different technologies, preparing myself for more complex development tasks.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "During this week, I explored additional technologies such as `SQL`, `jQuery`, and continued working with `ASP.NET MVC` and `API integration`. These tools helped me understand how data is managed, how user interfaces are enhanced, and how systems interact with databases.",
+              "I also continued using resources like ChatGPT and online materials to support my learning, making it easier to understand complex coding concepts and improve my development workflow.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Collaboration with my team remained important as we shared ideas and discussed improvements for the system. I participated in conversations where we explored possible features and solutions that could benefit the company.",
+              "This teamwork allowed me to see different perspectives and understand how collaboration contributes to innovation and problem-solving.",
             ],
           },
           {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week reinforced the importance of `continuous learning`, `problem-solving`, and `creativity` in development. As I explored new technologies, I focused on understanding how they connect and work together.",
+              "I learned that having a strong foundation allows me to adapt more easily when learning new tools and concepts.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, I contributed by generating ideas that could help improve the system and potentially increase revenue for the company.",
+              "I also continued practicing and applying my technical knowledge, which helped me prepare for more advanced development tasks.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Eight",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `technology and business go hand in hand`. A good system is not only functional but also provides value to users and the organization.",
+              "I also realized that `learning never stops`, especially in the field of development, where new tools and technologies are constantly evolving.",
             ],
           },
-          {
+         {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I move forward, I aim to deepen my understanding of the technologies I have learned and apply them more effectively in real projects.",
+              "I look forward to continuing my growth as a developer and contributing more innovative ideas to the team.",
             ],
           },
         ],
@@ -916,7 +916,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "9th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+          "Continued development tasks while improving skills in SQL, jQuery, and ASP.NET MVC.",
       date: "February 16 to 20, 2026",
       readTime: "6 min read",
       author: {
@@ -928,66 +928,66 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Nine: Strengthening Development Skills and Consistency",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My ninth week focused on continuing the development work I started in the previous weeks. I became more consistent in applying what I had learned, especially in SQL, jQuery, and ASP.NET MVC.",
+              "This week allowed me to further strengthen my understanding of how systems function, while improving my confidence in handling development-related tasks.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "At this stage, I was already fully adjusted to the development environment and workflow. My focus was no longer on learning the basics, but on improving my efficiency and understanding of system processes.",
+              "This helped me become more independent in handling tasks and learning new concepts.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "During this week, I continued working with `SQL`, `jQuery`, `ASP.NET MVC`, and `API integration`, which helped me strengthen both backend and frontend development skills.",
+              "I also used resources like ChatGPT and online documentation to support my learning, making it easier to understand more advanced concepts and apply them effectively.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Collaboration with my team continued as we shared knowledge, discussed tasks, and helped each other solve problems.",
+              "Working together allowed me to learn faster and gain insights from different perspectives, improving both my technical and communication skills.",
             ],
           },
           {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week reinforced the importance of `consistency`, `practice`, and `problem-solving`. Repeating tasks and applying knowledge regularly helped me better understand development concepts.",
+              "I realized that building strong habits in coding and learning is essential for long-term growth in the field.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, I continued contributing by practicing and applying my knowledge in development tasks related to the system.",
+              "These contributions helped me gain more experience and become more confident in working with real-world applications.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Nine",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `consistency leads to improvement`. Continuously applying what I have learned helped me become more confident in my skills.",
+              "I also learned that `patience and persistence` are important when dealing with complex development tasks.",
             ],
           },
           {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I move forward, I aim to continue improving my development skills and take on more challenging tasks.",
+              "I look forward to further enhancing my knowledge and becoming more efficient in building and understanding systems.",
             ],
           },
         ],
@@ -999,7 +999,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "10th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Continued system development while improving efficiency and applying learned technologies.",
       date: "February 23 to 27, 2026",
       readTime: "6 min read",
       author: {
@@ -1011,66 +1011,66 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Ten: Improving Efficiency and Confidence in Development",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My tenth week focused on improving my efficiency and confidence in handling development tasks. After weeks of continuous learning and practice, I became more comfortable applying my knowledge in real scenarios.",
+              "This week allowed me to work more independently while continuing to strengthen my understanding of system development.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "At this point, I was already fully adapted to the development environment and workflows. I no longer needed constant guidance and was able to navigate tasks with more independence.",
+              "This showed my growth from being a beginner to becoming more confident in handling responsibilities.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "During this week, I consistently used `SQL`, `jQuery`, `ASP.NET MVC`, and `API integration` in my practice and development tasks.",
+              "I also continued using resources like ChatGPT and documentation to refine my understanding and improve how I apply these technologies in building systems.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Team collaboration remained an important part of my learning process. I continued to communicate with my teammates, share ideas, and ask for feedback when needed.",
+              "This helped me stay aligned with tasks and improve the quality of my work through shared knowledge and support.",
             ],
           },
           {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week emphasized the importance of `efficiency`, `consistency`, and `clean work practices`. I focused on improving how I approach tasks and organize my work.",
+              "I learned that being efficient does not only mean working faster, but also working smarter and producing better results.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, I continued contributing to development tasks by applying the skills I had learned over the past weeks.",
+              "My contributions became more refined, as I was able to complete tasks with better understanding and confidence.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Ten",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `confidence comes from experience`. The more I practiced and applied my skills, the more confident I became in handling tasks.",
+              "I also realized that `continuous improvement` is necessary to grow in the field of software development.",
             ],
           },
           {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I move into the final phase of my internship, I aim to continue improving my skills and contribute more effectively to development tasks.",
+              "I look forward to applying everything I have learned and preparing myself for real-world professional challenges.",
             ],
           },
         ],
@@ -1082,7 +1082,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "11th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Applied development skills more independently while continuing system work and improving problem-solving.",
       date: "March 2 to 6, 2026",
       readTime: "6 min read",
       author: {
@@ -1094,66 +1094,66 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Eleven: Gaining Independence in Development",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My eleventh week marked a stage where I became more independent in handling development tasks. After weeks of continuous learning and practice, I was able to apply my skills with less guidance.",
+              "This week allowed me to focus on improving my problem-solving abilities and understanding how to approach tasks more efficiently.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "At this stage, I was fully familiar with the system environment and development workflow. I was able to navigate tasks independently and understand instructions more clearly.",
+              "This showed my progress from being a beginner to becoming more capable in handling real development responsibilities.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "During this week, I consistently worked with `SQL`, `jQuery`, `ASP.NET MVC`, and `API integration` as part of my development tasks.",
+              "I also continued using ChatGPT and other learning resources to assist in debugging, understanding code, and improving my implementation of features.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Collaboration with my team remained important as we continued to share knowledge and assist each other in solving problems.",
+              "I became more confident in communicating my ideas and asking for feedback when needed, which helped improve my overall performance.",
             ],
           },
-          {
+         {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week reinforced the importance of `independence`, `problem-solving`, and `attention to detail`. I focused on understanding errors and finding solutions on my own before seeking help.",
+              "I learned that developing strong problem-solving skills is essential in becoming an effective developer.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, I contributed by continuing development tasks and applying my knowledge more independently.",
+              "My work became more efficient, and I was able to complete tasks with better understanding and confidence.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Eleven",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `independence is built through experience`. The more I worked on tasks, the more confident I became in solving problems.",
+              "I also realized that `continuous practice and persistence` are key to improving technical skills.",
             ],
           },
-          {
+         {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I approach the final weeks of my internship, I aim to continue improving my skills and maximize my learning experience.",
+              "I look forward to applying everything I have learned and finishing my internship strong.",
             ],
           },
         ],
@@ -1165,7 +1165,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "12th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Continued development work while refining skills and preparing for the final phase of the internship.",
       date: "March 9 to 13, 2026",
       readTime: "6 min read",
       author: {
@@ -1177,66 +1177,66 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Twelve: Refining Skills and Preparing for Completion",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My twelfth week focused on refining the skills I had developed throughout my internship. As I approached the final phase, I became more confident in applying my knowledge to development tasks.",
+              "This week allowed me to review what I had learned, improve my workflow, and prepare myself for the conclusion of my OJT.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "By this stage, I was fully comfortable with the system environment and required minimal guidance in performing tasks.",
+              "I was able to manage my responsibilities more independently and efficiently, showing my growth throughout the internship.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "During this week, I continued using `SQL`, `jQuery`, `ASP.NET MVC`, and `API integration` in my development work.",
+              "I also utilized tools like ChatGPT and documentation to refine my understanding, improve code quality, and solve problems more effectively.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Collaboration remained an important part of my tasks as I continued working with my teammates, sharing knowledge, and supporting each other.",
+              "I became more confident in communicating my ideas and contributing to discussions, which improved both my teamwork and professional skills.",
             ],
           },
           {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week reinforced the importance of `refinement`, `efficiency`, and `attention to detail`. I focused on improving how I approach tasks and ensuring better quality in my work.",
+              "I learned that reviewing and improving existing knowledge is just as important as learning new concepts.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, I continued contributing to development tasks by applying and refining the skills I had learned.",
+              "My work became more structured and efficient, reflecting my growth and experience throughout the internship.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Twelve",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned this week is that `refinement leads to mastery`. Continuously improving my skills helped me become more confident and effective.",
+              "I also realized that `experience builds confidence`, and each task I completed contributed to my growth as a developer.",
             ],
           },
           {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I approach the final week of my internship, I aim to give my best effort and apply everything I have learned.",
+              "I look forward to completing my OJT with confidence and carrying these experiences into my future career.",
             ],
           },
         ],
@@ -1248,7 +1248,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "13th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Completed the final week of OJT, applying all learned skills and reflecting on overall growth and experience.",
       date: "March 16 to 20, 2026",
       readTime: "6 min read",
       author: {
@@ -1260,66 +1260,66 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Thirteen: Final Week and Culmination of My OJT Journey",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My thirteenth week marked the final stage of my On-the-Job Training. This week was a culmination of everything I had learned, experienced, and applied throughout the internship.",
+              "As I approached the last day on March 20, 2026, I reflected on my growth—from being a beginner to becoming more confident in both technical and professional skills.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "By this final week, I was fully adapted to the system, tools, and workflow of the company. Tasks that once felt challenging had become more manageable and familiar.",
+              "This showed how much I had improved and adjusted throughout the duration of my OJT.",
             ],
           },
           {
             id: "project-tools",
             heading: "Learning Project Tools and Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "During this week, I continued using `SQL`, `jQuery`, `ASP.NET MVC`, and `API integration`, applying them more confidently in my tasks.",
+              "I also continued using ChatGPT and other resources to refine my understanding and ensure that my work was accurate and efficient.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Collaboration with my teammates remained strong as we completed our final tasks. We supported each other, shared knowledge, and ensured that our work was completed successfully.",
+              "This teamwork made my internship experience more meaningful and helped me grow both professionally and personally.",
             ],
           },
           {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "This week reinforced all the foundational practices I had learned, such as `consistency`, `problem-solving`, `communication`, and `continuous improvement`.",
+              "I realized that these practices are essential not only during internship but also in my future career as a developer.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this final week, I continued contributing to development tasks and ensured that my work was completed properly.",
+              "I also reflected on my previous contributions, recognizing how each small task helped me grow into a more capable and confident individual.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Thirteen",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "The most important lesson I learned from my entire OJT experience is that `growth comes from continuous learning and experience`. Every challenge I faced contributed to my development.",
+              "I also realized that `confidence is built over time`, and with dedication and effort, I can achieve more than I initially expected.",
             ],
           },
           {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I completed my OJT on March 20, 2026, I feel more prepared to enter the professional world with confidence and determination.",
+              "I will carry all the knowledge, skills, and experiences I gained into my future career, and continue striving to improve myself as a developer.",
             ],
           },
         ],
@@ -1331,7 +1331,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "13th week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+        "Marked the final day of my OJT, reflecting on growth, achievements, and future goals.",
       date: "March 20, 2026",
       readTime: "6 min read",
       author: {
@@ -1343,66 +1343,27 @@ export const getBlogPostById = (id: number) => {
         sections: [
           {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "March 20, 2026: My Final Day as an OJT Intern",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "March 20, 2026 marked the final day of my On-the-Job Training, bringing an end to a meaningful and transformative journey. It was a moment filled with mixed emotions—gratitude for the experience and pride in how much I have grown.",
+              "From my first day of learning and adjustment to becoming more confident in both communication and development, this journey has shaped me into a more capable and prepared individual.",
             ],
           },
-          {
-            id: "onboarding-experience",
-            heading: "Onboarding and Setup",
-            paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
-            ],
-          },
-          {
-            id: "project-tools",
-            heading: "Learning Project Tools and Processes",
-            paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
-            ],
-          },
-          {
-            id: "team-collaboration",
-            heading: "Team Collaboration and Communication",
-            paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
-            ],
-          },
-          {
-            id: "foundational-practices",
-            heading: "Foundational Software Development Practices",
-            paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
-            ],
-          },
-          {
-            id: "first-contributions",
-            heading: "My First Contributions",
-            paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
-            ],
-          },
-          {
+          
+         {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Final Reflections",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "Throughout my OJT, I learned valuable lessons in `adaptability`, `continuous learning`, and `teamwork`. Each week brought new challenges that helped me improve both technically and professionally.",
+              "This experience taught me that growth comes from stepping out of my comfort zone and embracing new opportunities.",
             ],
           },
-          {
+         {
             id: "looking-forward",
-            heading: "Looking Forward",
+            heading: "Moving Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I conclude my internship, I am now more confident in pursuing a career in the field of technology. I will carry the knowledge and experiences I gained as I continue to grow as a future software developer.",
+              "This OJT journey will always remain a significant milestone in my life, serving as a strong foundation for my future goals.",
             ],
           },
         ],
