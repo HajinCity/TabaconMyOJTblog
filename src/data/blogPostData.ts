@@ -1329,7 +1329,7 @@ export const getBlogPostById = (id: number) => {
       id: 18,
       image: getImagePath("/117.jpg"),
       category: "Internship",
-      title: "13th week of internship",
+      title: "The Last Day of internship",
       excerpt:
         "Marked the final day of my OJT, reflecting on growth, achievements, and future goals.",
       date: "March 20, 2026",
