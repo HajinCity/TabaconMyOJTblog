@@ -64,7 +64,7 @@ export function Blog({ onPostClick }: BlogProps) {
       category: "Internship",
       title: "2nd week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+         "Completed an E-Challenge, improved sales skills, and collaborated on updating the system’s knowledge base.",
       date: "December 15, 2025",
       readTime: "6 min read",
     },
