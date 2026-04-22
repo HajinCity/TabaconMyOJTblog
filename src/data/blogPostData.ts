@@ -335,7 +335,7 @@ export const getBlogPostById = (id: number) => {
       category: "Internship",
       title: "2nd week of internship",
       excerpt:
-        "Reflected on onboarding experiences, learning project tools, team collaboration, and foundational software development practices",
+      "Completed an E-Challenge, improved sales skills, and collaborated on updating the system’s knowledge base.",
       date: "December 15 to 22, 2025",
       readTime: "6 min read",
       author: {
@@ -428,68 +428,68 @@ export const getBlogPostById = (id: number) => {
       },
       content: {
         sections: [
-          {
+         {
             id: "introduction",
-            heading: "Week One: A Foundation for Growth",
+            heading: "Week Three: Building Communication and Sales Skills",
             paragraphs: [
-              "My first week at the internship has been a whirlwind of learning, adaptation, mistakes and growth. From onboarding sessions to my first code contributions, this week has set the foundation for what I hope will be a transformative experience.",
-              "The week was structured to help me understand the company's `development practices`, `project management tools`, and `team dynamics`. Each day brought new insights and opportunities to learn from experienced developers.",
+              "My third week of internship focused on strengthening my communication and sales abilities. As I continued my role as a Sales Representative, I became more comfortable engaging with clients and understanding how to present the system effectively.",
+              "This week allowed me to develop confidence in explaining the system, handling inquiries, and adapting my approach based on different client needs. It was a valuable experience that helped me grow both professionally and personally.",
             ],
           },
           {
             id: "onboarding-experience",
             heading: "Onboarding and Setup",
             paragraphs: [
-              "The onboarding process was comprehensive. I was introduced to the company's tech stack, development environment setup, and internal tools. Setting up my development environment required configuring `version control`, `IDE settings`, `database connections`, and `API access`.",
-              
+              "By my third week of internship, I had become more familiar with the company’s workflow and expectations. My tasks were more focused on communication and sales-related activities, which helped me better understand how the system is introduced and explained to potential clients.",
+              "This week also helped me adjust more confidently to my responsibilities. As I continued participating in discussions and presentations, I became more comfortable with the tools, processes, and professional environment surrounding my role.",
             ],
           },
           {
             id: "project-tools",
-            heading: "Learning Project Tools and Processes",
+            heading: "Learning Tools and Sales Processes",
             paragraphs: [
-              "This week I learned about the tools and processes the team uses daily. From `Git workflows` and `branching strategies` to `code review processes` and `deployment pipelines`, each tool serves a specific purpose in maintaining code quality and team efficiency.",
-              "I was particularly interested in learning about the team's `testing practices`. They emphasize writing tests alongside code, not after, which ensures that testing is integrated into the development process rather than being an afterthought.",
+              "During this week, I continued using tools such as `Google Meet` for communication and `MS PowerPoint` for presenting the system to clients. These tools helped me deliver clearer and more structured presentations.",
+              "I also practiced using communication strategies and sales techniques, which improved my ability to explain the system’s features and benefits in a more understandable and convincing way.",
             ],
           },
           {
             id: "team-collaboration",
             heading: "Team Collaboration and Communication",
             paragraphs: [
-              "The team's collaboration style emphasizes `transparency`, `regular communication`, and `knowledge sharing`. Daily stand-ups keep everyone aligned, and the team uses Slack for quick questions and discussions.",
-              "I learned the importance of `asking questions` and `seeking feedback` early. The team encouraged me to reach out whenever I needed clarification, which helped me avoid spending too much time stuck on problems I could have solved faster with help.",
+              "Collaboration with my team remained important during this week. We supported each other in improving our sales approaches by sharing techniques, giving feedback, and helping one another understand how to better communicate the system.",
+              "Through this teamwork, I learned that exchanging ideas and experiences can greatly improve performance and confidence when dealing with clients.",
             ],
           },
-          {
+         {
             id: "foundational-practices",
             heading: "Foundational Software Development Practices",
             paragraphs: [
-              "This week reinforced the importance of foundational practices like `clean code`, `documentation`, and `version control best practices`. I saw how these practices, when consistently applied, make codebases more maintainable and teams more productive.",
-              "I also learned about the team's approach to `code reviews`. Reviews aren't just about finding bugs—they're opportunities for learning, knowledge sharing, and maintaining code quality standards across the team.",
+              "Although my main focus this week was on sales and communication, I still learned important foundational practices such as `clear explanation`, `professional communication`, and `organized presentation of information`. These skills are essential in helping others understand a system effectively.",
+              "I realized that having a strong foundation does not only apply to coding, but also to how ideas are delivered and presented. Being clear, prepared, and confident in communication is an important practice that contributes to both personal growth and professional success.",
             ],
           },
           {
             id: "first-contributions",
-            heading: "My First Contributions",
+            heading: "My Contributions",
             paragraphs: [
-              "By the end of the week, I had made my first small contributions to the desings and layouts. These were simple tasks, but they gave me confidence and helped me understand the development workflow. Each contribution was reviewed, and the feedback helped me improve.",
-              "Working on real tasks, even small ones, made me realize how much I still have to learn. But it also showed me that with the right support and a willingness to learn, I can contribute meaningfully to the team's work.",
+              "During this week, my main contributions were focused on presenting the system and assisting in sales-related activities. I actively participated in discussions and helped explain system features to improve client understanding.",
+              "These experiences helped me build confidence and showed me the importance of clear communication in promoting a system effectively.",
             ],
           },
           {
             id: "key-takeaways",
-            heading: "Key Takeaways from Week One",
+            heading: "Key Takeaways from Week Three",
             paragraphs: [
-              "The most important lesson from this week is that `learning is continuous` and `asking questions is a strength, not a weakness`. The best developers I've met this week are those who are always learning and aren't afraid to admit when they don't know something.",
-              "I also learned that `adaptability` and `communication` are just as important as technical skills. Being able to work effectively in a team, communicate clearly, and adapt to new tools and processes is crucial for success in a professional development environment.",
+              "This week taught me that `communication` and `confidence` are essential in presenting ideas and systems effectively. Being able to explain clearly and adapt to different situations is a valuable skill in any field.",
+              "I also learned that `practice` and `team support` play a big role in improving performance, especially in tasks that involve interacting with others.",
             ],
           },
-          {
+        {
             id: "looking-forward",
             heading: "Looking Forward",
             paragraphs: [
-              "As I wrap up my first week, I'm excited about the weeks ahead. I know there will be challenges, but I also know that each challenge is an opportunity to grow. The foundation I've built this week will support my continued learning and contribution to the team.",
-              "I'm grateful for the supportive team and the opportunity to learn from experienced developers. Here's to many more weeks of growth, learning, and meaningful contributions!",
+              "As I move forward, I aim to continue improving my communication skills and become more confident in handling real-world interactions.",
+              "I am excited to learn more and take on new responsibilities that will further develop both my technical and professional abilities.",
             ],
           },
         ],
