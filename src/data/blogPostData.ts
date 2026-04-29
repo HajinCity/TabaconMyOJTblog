@@ -331,7 +331,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 6,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt8.jpg"),
       category: "Internship",
       title: "2nd week of internship",
       excerpt:
@@ -414,7 +414,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 7,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt7.jpg"),
       category: "Internship",
       title: "3rd week of internship",
       excerpt:
@@ -497,7 +497,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 8,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt17.jpg"),
       category: "Internship",
       title: "4th week of internship",
       excerpt:
@@ -580,7 +580,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 9,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/oj3.jpg"),
       category: "Internship",
       title: "5th week of internship",
       excerpt:
@@ -663,7 +663,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 10,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt4.jpg"),
       category: "Internship",
       title: "6th week of internship",
       excerpt:
@@ -746,7 +746,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 11,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt8.jpg"),
       category: "Internship",
       title: "7th week of internship",
       excerpt:
@@ -829,7 +829,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 12,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt5.jpg"),
       category: "Internship",
       title: "8th week of internship",
       excerpt:
@@ -912,7 +912,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 13,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt19.jpg"),
       category: "Internship",
       title: "9th week of internship",
       excerpt:
@@ -995,7 +995,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 14,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt20.jpg"),
       category: "Internship",
       title: "10th week of internship",
       excerpt:
@@ -1078,7 +1078,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 15,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt10.jpg"),
       category: "Internship",
       title: "11th week of internship",
       excerpt:
@@ -1161,7 +1161,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 16,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt23.jpg"),
       category: "Internship",
       title: "12th week of internship",
       excerpt:
@@ -1244,7 +1244,7 @@ export const getBlogPostById = (id: number) => {
     },
     {
       id: 17,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt14.jpg"),
       category: "Internship",
       title: "13th week of internship",
       excerpt:
@@ -1327,7 +1327,7 @@ export const getBlogPostById = (id: number) => {
     },
         {
       id: 18,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt21.jpg"),
       category: "Internship",
       title: "The Last Day of internship",
       excerpt:
