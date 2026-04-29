@@ -160,7 +160,7 @@ export function Blog({ onPostClick }: BlogProps) {
     },
     {
       id: 16,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt23.jpg"),
       category: "Internship",
       title: "12th week of internship",
       excerpt:
@@ -170,7 +170,7 @@ export function Blog({ onPostClick }: BlogProps) {
     },
     {
       id: 17,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt14.jpg"),
       category: "Internship",
       title: "13th week of internship",
       excerpt:
@@ -180,7 +180,7 @@ export function Blog({ onPostClick }: BlogProps) {
     },
     {
       id: 18,
-      image: getImagePath("/117.jpg"),
+      image: getImagePath("/ojt21.jpg"),
       category: "Internship",
       title: "The Last Day of OJT",
       excerpt:
