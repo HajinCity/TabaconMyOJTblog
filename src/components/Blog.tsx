@@ -90,7 +90,7 @@ export function Blog({ onPostClick }: BlogProps) {
     },
     {
       id: 9,
-      image: getImagePath("/ojt3.jpg"),
+      image: getImagePath("/oj3.jpg"),
       category: "Internship",
       title: "5th week of internship",
       excerpt:
